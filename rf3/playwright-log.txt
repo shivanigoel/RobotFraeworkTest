@@ -1,0 +1,9 @@
+{"level":30,"time":"2023-06-20T20:41:47.667Z","pid":15576,"hostname":"DESKTOP-IC2KGOA","msg":"Listening on 59782"}
+{"level":30,"time":"2023-06-20T20:41:48.795Z","pid":15576,"hostname":"DESKTOP-IC2KGOA","msg":"Changed active context"}
+{"level":30,"time":"2023-06-20T20:41:48.999Z","pid":15576,"hostname":"DESKTOP-IC2KGOA","msg":"Video path: undefined"}
+{"level":30,"time":"2023-06-20T20:41:48.999Z","pid":15576,"hostname":"DESKTOP-IC2KGOA","msg":"Changed active page"}
+{"level":30,"time":"2023-06-20T20:41:52.979Z","pid":15576,"hostname":"DESKTOP-IC2KGOA","msg":"Retrieved dom property for element //*[@class=\"shopping_cart_badge\"] containing 2"}
+{"level":30,"time":"2023-06-20T20:41:53.544Z","pid":15576,"hostname":"DESKTOP-IC2KGOA","msg":"Retrieved dom property for element (//*[@class=\"cart_quantity\"])[1] containing 1"}
+{"level":30,"time":"2023-06-20T20:41:53.583Z","pid":15576,"hostname":"DESKTOP-IC2KGOA","msg":"Retrieved dom property for element (//*[@class=\"cart_quantity\"])[2] containing 1"}
+{"level":30,"time":"2023-06-20T20:41:53.624Z","pid":15576,"hostname":"DESKTOP-IC2KGOA","msg":"Retrieved dom property for element //*[@class=\"summary_info_label summary_total_label\"] containing Total: $49.66"}
+{"level":30,"time":"2023-06-20T20:41:54.020Z","pid":15576,"hostname":"DESKTOP-IC2KGOA","msg":"Retrieved dom property for element //*[@id=\"checkout_complete_container\"]/h2 containing Thank you for your order!"}
